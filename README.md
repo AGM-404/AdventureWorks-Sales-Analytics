@@ -77,6 +77,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Sales Trends
 
 ![Sales Trends Dashboard](screenshots/05_Sales_Trends.png)
+### Profitability Investigation
+
+![Profitability Investigation Dashboard](screenshots/06_Profitability_Investigation.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
