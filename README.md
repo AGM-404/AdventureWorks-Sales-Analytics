@@ -74,6 +74,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Territory Performance
 
 ![Territory Performance Dashboard](screenshots/04_Territory_Performance.png)
+### Sales Trends
+
+![Sales Trends Dashboard](screenshots/05_Sales_Trends.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
