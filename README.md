@@ -90,6 +90,7 @@ The final investigation page is hidden from the main tab navigation and accessed
 - The May–June comparison uses the first 15 days of each month to keep the periods comparable.
 - The report describes observed patterns and does not claim an unverified cause for missing direct-customer bike transactions.
 - Figures are rounded in this README; report visuals provide additional detail.
+**Data source:** Microsoft, *AdventureWorks Sales Sample*, from the [Power BI Desktop Samples repository](https://github.com/microsoft/powerbi-desktop-samples). The source repository is licensed under the MIT License. This project uses the sample data for an independently developed Power BI sales and profitability analysis.
 
 ## Project files 
 The Power BI .pbix report and selected screenshots will be added after verifying that the underlying data can be shared publicly.
