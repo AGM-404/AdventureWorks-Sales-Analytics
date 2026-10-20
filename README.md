@@ -71,6 +71,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Reseller Bike Loss Analysis
 
 ![Reseller Bike Loss Analysis Dashboard](screenshots/03_Reseller_Bike_Loss_Analysis.png)
+### Territory Performance
+
+![Territory Performance Dashboard](screenshots/04_Territory_Performance.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
