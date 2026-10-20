@@ -94,7 +94,8 @@ The final investigation page is hidden from the main tab navigation and accessed
 **Data source:** Microsoft, *AdventureWorks Sales Sample*, from the [Power BI Desktop Samples repository](https://github.com/microsoft/powerbi-desktop-samples). The source repository is licensed under the MIT License. This project uses the sample data for an independently developed Power BI sales and profitability analysis.
 
 ## Project files 
-The Power BI .pbix report and selected screenshots will be added after verifying that the underlying data can be shared publicly.
+- [Download the Power BI report](AdventureWorks_Sales_Analytics.pbix)
+- [View report screenshots](screenshots/)
 
 ## Skills demonstrated 
 Data transformation · Relational data modeling · DAX measures · KPI design · Profitability analysis · Interactive navigation · Slicers and filter context · Dynamic titles · Drill-down investigation · Analytical storytelling
