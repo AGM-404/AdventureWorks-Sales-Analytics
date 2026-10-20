@@ -65,6 +65,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Executive Overview
 
 ![Executive Overview Dashboard](screenshots/01_Executive_Overview.png)
+### Sales Channel Performance
+
+![Sales Channel Performance Dashboard](screenshots/02_Sales_Channel_Performance.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
