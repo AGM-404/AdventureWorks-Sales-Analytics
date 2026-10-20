@@ -68,6 +68,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Sales Channel Performance
 
 ![Sales Channel Performance Dashboard](screenshots/02_Sales_Channel_Performance.png)
+### Reseller Bike Loss Analysis
+
+![Reseller Bike Loss Analysis Dashboard](screenshots/03_Reseller_Bike_Loss_Analysis.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
