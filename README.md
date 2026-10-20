@@ -80,6 +80,9 @@ The final investigation page is hidden from the main tab navigation and accessed
 ### Profitability Investigation
 
 ![Profitability Investigation Dashboard](screenshots/06_Profitability_Investigation.png)
+### Product Investigation
+
+![Product Investigation Dashboard](screenshots/07_Product_Investigation.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
