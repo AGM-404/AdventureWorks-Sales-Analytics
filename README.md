@@ -62,7 +62,9 @@ To avoid comparing a partial June with a full May, the report compares May 1–1
 The final investigation page is hidden from the main tab navigation and accessed through the report's Investigate Further button.
 
 ## Report screenshots 
-Screenshots will be added to the [`screenshots/`](screenshots/) folder.
+### Executive Overview
+
+![Executive Overview Dashboard](screenshots/01_Executive_Overview.png)
 
 ## Data and interpretation notes 
 - The report uses AdventureWorks sample sales data.
